@@ -2,7 +2,7 @@
 Türkiye'nin il ve ilçelerine yönelik basit kapsamlı json verisidir.
 
 Adana iline ait örnek şablon aşağıda verilmiştir. Gerekli kontrollerin yapılması gerekmektedir. Boş değer girilmiş veriler mevcut olabilir. Fark edildiği takdirde güncelleme yapılacaktır.
-```
+```json
 [
   {
     "plate": "1",
